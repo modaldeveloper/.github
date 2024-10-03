@@ -8,6 +8,9 @@
 *.o
 *.so
 
+# Ignore Xcode user-specific data
+*.xcuserdata/
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
