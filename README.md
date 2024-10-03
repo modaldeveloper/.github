@@ -8,6 +8,11 @@
 *.o
 *.so
 
+# Build results #
+###################
+[Oo]utput/
+[Tt]emp/
+
 # Ignore Xcode user-specific data
 *.xcuserdata/
 
